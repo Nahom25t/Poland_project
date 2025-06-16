@@ -18,5 +18,3 @@ ggplot(poland_map_data, aes(x = long, y = lat, fill = 0.5)) +
     theme_minimal()
 
 
-
-febr
