@@ -21,4 +21,4 @@ jobs:
         run: Rscript -e 'install.packages("shiny")'
 
       - name: Run app file
-        run: Rscript app.R
+        run: Rscript app-1/app.R
